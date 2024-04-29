@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "934775083142",
+    "project_id": "crypto-project-87cad",
+    "storage_bucket": "crypto-project-87cad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934775083142:android:d3c19f3494c582159dc107",
+        "android_client_info": {
+          "package_name": "com.example.crypto_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-ydD5b6RhuwD_Tst_0rABUdXvZYR_PaA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
